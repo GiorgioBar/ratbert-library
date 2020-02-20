@@ -1,4 +1,4 @@
-package com.example.ratbertlibrary;
+package com.ratbert.ratbertlibrary;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

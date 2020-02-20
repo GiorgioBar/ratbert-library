@@ -1,4 +1,4 @@
-package com.example.ratbertlibrary;
+package com.ratbert.ratbertlibrary;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

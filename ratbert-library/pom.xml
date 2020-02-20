@@ -8,9 +8,9 @@
 		<version>2.1.12.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
+	<groupId>com.ratbert</groupId>
 	<artifactId>ratbert-library</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>ratbert-library</name>
 	<description>Demo project for Spring Boot</description>
 
@@ -42,5 +42,14 @@
 		</plugins>
 	</build>
 	-->
+
+	<!-- To publish the package: $ mvn deploy -->
+	<distributionManagement>
+		<repository>
+			<id>github</id>
+			<name>GitHub GiorgioBar Apache Maven Packages</name>
+			<url>https://maven.pkg.github.com/GiorgioBar/ratbert-library</url>
+		</repository>
+	</distributionManagement>
 
 </project>

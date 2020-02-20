@@ -1,4 +1,4 @@
-package com.example.ratbertlibrary.service;
+package com.ratbert.ratbertlibrary.service;
 
 import org.springframework.stereotype.Service;
 
